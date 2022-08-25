@@ -1,0 +1,23 @@
+.mainContainer {
+  background-color: black;
+  height: 100vh;
+}
+.headerPage {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+.unOrderList {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.logoutButton {
+  background-color: blue;
+  color: white;
+}
+.horizontalLine {
+  color: #64748b;
+  width: 2px;
+}

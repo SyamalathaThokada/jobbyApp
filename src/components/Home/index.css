@@ -1,0 +1,15 @@
+.homePage {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  background-size: cover;
+  height: 100vh;
+}
+.h1 {
+  color: #ffffff;
+}
+p {
+  color: #f8fafc;
+}
+button {
+  background-color: #6366f1;
+  color: white;
+}
